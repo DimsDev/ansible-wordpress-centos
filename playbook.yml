@@ -1,6 +1,6 @@
 ---
 - name: Deploy Mysql/Httpd/Wordpress
-  hosts:   localhost
+  hosts:  137.74.107.136
   become: true
   roles:
     - { role:  dimsdev.mysql, tags: mysql }
