@@ -1,5 +1,5 @@
 ---
-# vars file for sysdev.wordpress
+# vars file for dimsdev.wordpress
 database_name_here:  wordpress
 username_here: wordpress
 password_here:  12345678

@@ -1,5 +1,5 @@
 ---
-# tasks file for sysdev.wordpress
+# tasks file for dimsdev.wordpress
 # 
 
 - name: Create wordpress database

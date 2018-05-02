@@ -3,7 +3,7 @@
   hosts:   localhost
   become: true
   roles:
-    - { role:  sysdev.mysql, tags: mysql }
-    - { role:  sysdev.httpd, tags: web }
-    - { role:  sysdev.wordpress, tags: wordpress }
+    - { role:  dimsdev.mysql, tags: mysql }
+    - { role:  dimsdev.httpd, tags: web }
+    - { role:  dimsdev.wordpress, tags: wordpress }
 
